@@ -1,5 +1,6 @@
 import Image from "next/image";
 import escudo from "/public/escudo.png";
+
 export default function Home() {
   return (
     <main className="w-scree flex-col gap-5 h-screen flex items-center justify-center bg-white">
